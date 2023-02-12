@@ -1,0 +1,117 @@
+body{
+  background-color: #EEEAE5;  
+  height: 100%;
+  width: 100%;
+  margin: 30px;
+  font-family: 'Shippori Mincho B1', serif;
+}
+
+h1 {
+    width: 822px;
+    height: 168px;
+    left: 397px;
+    top: 347px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;
+text-align: center;
+margin: 0 auto;
+padding: 301px;
+ }
+
+.top{
+width: 1440px;
+height: 657px;
+left: 0px;
+top: 59px;
+
+background: url(img/sports-day.png);
+
+}
+
+
+h3{
+
+width: 478px;
+height: 138px;
+left: 226px;
+top: 934px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 150%;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+}
+
+.center{
+
+width: 589px;
+height: 493px;
+left: 144px;
+top: 1186px;
+
+background: linear-gradient(0deg, rgba(238, 234, 229, 0.3),rgba(238, 234, 229, 0.3)), url(img/E3.png),;
+}
+
+h4{
+
+width: 508px;
+height: 739px;
+left: 780px;
+top: 942px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 200%;
+
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+
+h5{
+
+width: 857px;
+height: 80px;
+left: 305px;
+top: 1818px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 57px;
+line-height: 150.02%;
+
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+
+header{
+background-image: url(../img/sports-day.png);
+width: 100vw;
+height: 80vh;
+background-size: cover;
+background-position: center;
+}
+
+.seyoko{
+  display: flex;
+  justify-content: center;
+}
+
